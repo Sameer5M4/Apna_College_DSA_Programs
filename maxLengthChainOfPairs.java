@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class MaxLengthChainOfPairs {
+public class maxLengthChainOfPairs {
     public static void main(String args[]) {
         int nums[][] = { {5,24}, {39,60}, {5,38}, {27,40}, {50,90} };
 
